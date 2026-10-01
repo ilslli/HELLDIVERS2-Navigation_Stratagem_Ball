@@ -21,3 +21,16 @@ Take out and arm a stratagem ball → ping a spot → `ready` appears on the HUD
    In multiplayer, or right after a respawn, you need to throw one stratagem ball first (this is how the mod learns the player's address).
 2. 传送有可能失败。  
    The teleport may fail sometimes.
+
+## 其他信息 / Miscellaneous
+
+构建于游戏版本：Steam build 25480438（helldivers2.exe 1.8.46015.0）。  
+Built on game version: Steam build 25480438 (helldivers2.exe 1.8.46015.0).
+
+**AI 信息披露**：DeepSeek 协助研究、实施、调试、文档编写。  
+**AI disclosure**: DeepSeek assisted with research, implementation, debugging and documentation.
+
+### 友情链接 / Friendly links
+
+- HD2 Lua 加载器 / HD2 Lua loader：[BingusSharedLoader](https://github.com/CowboyBingus/BingusSharedLoader)
+- HD2 解包资源 / HD2 unpacked game data：[Darctor/Helldivers2_RawData](https://github.com/Darctor/Helldivers2_RawData)
