@@ -34,3 +34,8 @@ Built on game version: Steam build 25480438 (helldivers2.exe 1.8.46015.0).
 
 - HD2 Lua 加载器 / HD2 Lua loader：[BingusSharedLoader](https://github.com/CowboyBingus/BingusSharedLoader)
 - HD2 解包资源 / HD2 unpacked game data：[Darctor/Helldivers2_RawData](https://github.com/Darctor/Helldivers2_RawData)
+
+### 反馈 / Feedback
+
+如果你遇到任何问题，可以把日志发给我 —— 日志在 `%LOCALAPPDATA%\CowboyBingus\Helldivers2\Logs\`（`NavigationStratagemBall*.log`），按 Win+R 把这段路径粘进去就能打开文件夹；可以通过 GitHub 提 issue，或者直接在评论区发。  
+If you run into any problem, feel free to send me the logs — they are in `%LOCALAPPDATA%\CowboyBingus\Helldivers2\Logs\` (`NavigationStratagemBall*.log`); paste that path into Win+R to open the folder. You can open a GitHub issue, or just post them in the comments.
